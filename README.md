@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **johnsonjemar2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive?ths=true](https://drive.google.com/drive/my-drive?ths=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ip7HJEsruMJKPIxxwLRjFFFgr-2b2WuQ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
