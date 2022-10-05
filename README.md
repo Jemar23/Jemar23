@@ -9,7 +9,7 @@ Software Engineer
 * ✉️  You can contact me at [johnsonjemar2@gmail.com](mailto:johnsonjemar2@gmail.com)
 * 🚀  I'm currently working on [NFT profit manager](http://github.com/Jemar23/nft-profit-manager)
 * 🧠  I'm learning React.js and TypeScript
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer
+* 🤝  I'm open to collaborating on interesting projects as a developer
 * ⚡  The best show of all time is Game of Thrones
 
 ### Skills
